@@ -1,1 +1,1 @@
--tickrate 128 -novid +exec wasim  +cl_forcepreload 1 -threads 6 -high  -nod3d9ex1  -nojoy -noubershader 
+-tickrate 128 -novid +exec wasim -high -nod3d9ex1 -nojoy 
